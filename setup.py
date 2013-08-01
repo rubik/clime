@@ -1,5 +1,4 @@
 from setuptools import setup
-
 from clime import __version__
 
 setup(
